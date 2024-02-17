@@ -27,3 +27,7 @@
     Subscribe: `python User.py [username] [youtuber_name] s`   
     Unsubscribe: `python User.py [username] [youtuber_name] u`   
     Login: `python User.py [username]`
+
+### Misc
+https://www.cherryservers.com/blog/how-to-install-and-start-using-rabbitmq-on-ubuntu-22-04
+
