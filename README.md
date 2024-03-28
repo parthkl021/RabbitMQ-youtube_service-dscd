@@ -1,5 +1,5 @@
 # Youtube service using RabbitMQ
-
+A simplified version of a YouTube application using RabbitMQ
 ## Dependencies
 1. pika: `pip install pika`
 
@@ -30,4 +30,6 @@
 
 ### Misc
 https://www.cherryservers.com/blog/how-to-install-and-start-using-rabbitmq-on-ubuntu-22-04
+
+![image](https://github.com/SachinSharma-IIITD/RabbitMQ-youtube_service-dscd/assets/92939004/7dcb5c26-b05e-4f55-badc-8f7caef26555)
 
