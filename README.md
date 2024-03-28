@@ -1,3 +1,4 @@
+This work is part of our DSCD courework. There are 3 contributors for this work Sachin, Rishav and Me
 # Youtube service using RabbitMQ
 A simplified version of a YouTube application using RabbitMQ
 ## Dependencies
